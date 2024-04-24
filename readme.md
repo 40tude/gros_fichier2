@@ -21,3 +21,4 @@ Bref faut que je comprenne.
       1. modifier/créer un fichier .gitignore où je mentionne le gros fichier 
       1. faire la synchro dans laquelle du coup il n'y aura plus le gros fichier
 
+Bon allez, je viens de rajouter gros.csv ainsi que cette ligne. Ensuite je vais faire un commit et une synchro...
