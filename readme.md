@@ -110,6 +110,7 @@ Ca correspond pas tout à fait à ce que je voulais.
 
 Faut que je fasse encore 1 ou 2 tests.
 1. Faire plus de 1 commit AVANT d'ajouter `gros.csv` et voir si à la fin on a bien gardé l'historique des commits. J'ai peur qu'ils soient perdus auquel cas tout ça n'aura servi à rien car on obtient le même résultat en créant un nouveau dépot sur GitHub (en gardant ou pas le précedent dépôt. Dans ce cas il faut bien sûr des noms différments)
+    * J'ai vérifié sur Github directement. Dans le dépôt gros_fichier2 il y a bien tout l'historique du projet. 
 1. Faire un test sous PowerShell quand on a ajouté gros.csv mais pas encore fait de commit
 
 ### Note 
